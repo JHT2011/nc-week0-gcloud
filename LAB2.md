@@ -35,7 +35,7 @@ sudo apt-get update && sudo apt-get install google-cloud-sdk
 	# List zone
 	gcloud compute zones list
 	# List image
-	gcloud comput images list
+	gcloud compute images list
 	```
 
 * Create instance: 
